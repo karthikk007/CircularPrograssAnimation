@@ -2,7 +2,7 @@
 Clone That App - Circular Progress Animation
 
 ## App Preview
-
+https://youtu.be/loWyXVduxPk
 
 ## Snapshots
 ![simulator screen shot - iphone 8 - 2018-09-18 at 19 37 19](https://user-images.githubusercontent.com/4557961/45693607-1dcac680-bb7b-11e8-98e3-2c131facaffd.png)
